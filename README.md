@@ -46,7 +46,7 @@ A simple **terminal-based E-Commerce system** built with **Core Java** and **MyS
 
 ## 🛠️ Database Schema (`schema.sql`)
 
--- 🧑‍💼 Users Table
+ -- 🧑‍💼 Users Table
 
          CREATE TABLE users (
              id INT AUTO_INCREMENT PRIMARY KEY,
