@@ -93,7 +93,9 @@ CREATE TABLE order_items (
     FOREIGN KEY (product_id) REFERENCES products(id) ON DELETE CASCADE
 );
 
+
 ---
+
 
 ## 🚀 Getting Started
 
