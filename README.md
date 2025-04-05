@@ -51,6 +51,6 @@ A simple **terminal-based E-Commerce system** built with **Core Java** and **MyS
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-terminal-java.git
-cd ecommerce-terminal-java
+https://github.com/latakant/Kodewala-Ecom-Project.git
+cd Kodewala-Ecom-Project
 
