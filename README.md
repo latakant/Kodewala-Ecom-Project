@@ -93,4 +93,13 @@ A simple **terminal-based E-Commerce system** built with **Core Java** and **MyS
             FOREIGN KEY (product_id) REFERENCES products(id) ON DELETE CASCADE
         );
 
+---
 
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+
+```bash
+https://github.com/latakant/Kodewala-Ecom-Project.git
+cd Kodewala-Ecom-Project
