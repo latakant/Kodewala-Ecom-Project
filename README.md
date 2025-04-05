@@ -1,5 +1,4 @@
-
-    # 🛒 Terminal-Based E-Commerce System
+# 🛒 Terminal-Based E-Commerce System
 
 A simple **terminal-based E-Commerce system** built with **Core Java** and **MySQL**. This project allows users to register, view products, place orders, and manage stock — all via the command line interface.
 
